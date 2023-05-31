@@ -6,6 +6,8 @@ Esta informacion no busca promover los ataques a redes que no sean de tu propied
 
 # Procedimiento
 
+https://www.youtube.com/watch?v=uczbN0nxKfI
+
 Para este ataque utilizaremos la tecnica de captura de handshake y este archivo lo pasaremos al hashcat para poder desencriptar el hash a traves de un diccionario que crearemos con CRUNCH. 
 
 Utilizaremos tres aplicaciones para poder obtener el password [Aircrack-ng](http://aircrack-ng.org/)/[Hashcat](http://hashcat.net/). Crunch https://github.com/jim3ma/crunch
@@ -96,5 +98,5 @@ hashcat -a 0 -m 22000 Nombre_del_hash.22000 diccionariotigo.txt --show
 ```
 
 # LISTO
-- En menos de 5min pudimos saber el password de una red Tigo
+
               
