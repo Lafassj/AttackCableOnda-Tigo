@@ -6,7 +6,7 @@ Esta informacion no busca promover los ataques a redes que no sean de tu propied
 
 # Procedimiento
 
-https://www.youtube.com/watch?v=uczbN0nxKfI
+[![Alt text](https://img.youtube.com/vi/uczbN0nxKfI&t=3s/0.jpg)](https://www.youtube.com/watch?v=uczbN0nxKfI&t=3s)
 
 Para este ataque utilizaremos la tecnica de captura de handshake y este archivo lo pasaremos al hashcat para poder desencriptar el hash a traves de un diccionario que crearemos con CRUNCH. 
 
